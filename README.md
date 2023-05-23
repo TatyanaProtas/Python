@@ -23,7 +23,7 @@ ___
 24 -> 4  16  4    
 60 -> 10  40  10  
 
-[решение]()
+[решение](https://github.com/TatyanaProtas/Python/blob/main/Lesson%201/Задача%204/задача4.py)
 _____
 ## Задача 6: 
 
