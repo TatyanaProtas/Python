@@ -43,7 +43,7 @@ ____
 3 2 4 -> yes   
 3 2 1 -> no
 
-[решение]()
+[решение](https://github.com/TatyanaProtas/Python/blob/main/Lesson%201/Задача%208/задача8.py)
 ___
 
 # Lesson 2
