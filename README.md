@@ -12,7 +12,7 @@
 123 -> 6 (1 + 2 + 3)   
 100 -> 1 (1 + 0 + 0)
 
-[решение]()
+[решение](https://github.com/TatyanaProtas/Python/blob/main/Lesson%201/Задача%202/задача2.py)
 ___
 
 ## Задача 4:
