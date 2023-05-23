@@ -33,7 +33,7 @@ _____
 385916 -> yes    
 123456 -> no
 
-[решение]()
+[решение](https://github.com/TatyanaProtas/Python/commit/080fb1a3e390c8710e81aeef35d06e23f727ac35)
 
 ____
 ## Задача 8:
